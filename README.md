@@ -1,4 +1,5 @@
-<p align="center"><a href="[https://BDuarteS0.github.io](https://github.com/BDuarteS0)"><img width="80%" alt="Hello, I'm Bruno Duarte" src="./assets/gh-readme-header.png" /></a></p>
+
+###Olá, I'm Bruno Duarte
 
 
 <!--

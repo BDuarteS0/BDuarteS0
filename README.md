@@ -1,4 +1,15 @@
 # Bruno Duarte
+<p align="left">
+    <a href="https://github.com/BDuarteS0?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/BDuarteS0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+
 
 ### 📊 Estatísticas
 

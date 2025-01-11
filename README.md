@@ -13,7 +13,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=BDuarteS0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 

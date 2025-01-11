@@ -1,5 +1,5 @@
 
-###Olá, I'm Bruno Duarte
+Olá, eu sou Bruno Duarte
 
 
 <!--

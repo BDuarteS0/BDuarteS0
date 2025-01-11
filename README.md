@@ -7,8 +7,9 @@
 
 
 ### 📊 Estatísticas
+### 📊 Estatísticas
 
-<p>
+<div style="display: flex; flex-wrap: wrap;">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -16,12 +17,11 @@
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=BDuarteS0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDuarteS0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDuarteS0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</div>
 
-</p>

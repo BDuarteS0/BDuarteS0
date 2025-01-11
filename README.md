@@ -1,29 +1,17 @@
 # Bruno Duarte
 
 
-
-
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="max-width: 100%;" 
-        src="https://github-readme-stats.vercel.app/api?username=BDuarteS0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      />
-    </td>
-    <td>
-      <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="max-width: 100%;" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDuarteS0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img 
+    alt="GitHub Stats" 
+    style="width: 45%; max-width: 100%; margin-bottom: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=BDuarteS0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    alt="GitHub Stats" 
+    style="width: 45%; max-width: 100%; margin-bottom: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDuarteS0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>

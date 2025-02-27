@@ -29,8 +29,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/BDuarteS0/BDuarteS0/output/snake.svg" alt="Snake animation" />
 
-###

@@ -21,8 +21,4 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/WfvAKMKXwX0AAAAC/gear-5-luffy.gif"  />
-</div>
 
-###
